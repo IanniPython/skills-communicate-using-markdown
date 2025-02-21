@@ -16,6 +16,9 @@ print('Hello World) if True == True else 0
 var myVar = "Hello, world!";
 ```
 
+- [x] this task is completed
+- [ ] this task is open
+
 
 
 
